@@ -12,4 +12,4 @@ Orginal Image and Stegano_Image
 
 To understand more about this project go to Report folder. 
 
-I will be adding .exe file and full code of this project soon. 
+I will be adding .exe file and full code of this project after some changes. 
